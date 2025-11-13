@@ -30,10 +30,12 @@ I'm a student developer with interest in cutting edge technology, interface mode
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 Quote Of The Day
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CE26-Akira&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
 </div>
 
 ---
@@ -106,22 +108,13 @@ const akira = {
 - Stay tuned for upcoming blog posts!
 <!-- BLOG-POST-LIST:END -->
 
----
-
-## 💡 Quote Of The Day
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/CE26-Akira/CE26-Akira/output/github-contribution-grid-snake.svg)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=CE26-Akira&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
+
+---

@@ -15,7 +15,7 @@
 I'm a student developer with interest in cutting edge technology, interface model and contributing to existing open source projects!
 
 <div align="center">
-  <img width="320" height="218" src="https://preview.redd.it/flexible-foreign-policy-ftw-v0-qh418f84te8f1.png?width=411&amp;auto=webp&amp;s=1433db93176667f1069a7fedd59e5f627d0d6f1a">
+  <img width="640" height="436" src="https://preview.redd.it/flexible-foreign-policy-ftw-v0-qh418f84te8f1.png?width=411&amp;auto=webp&amp;s=1433db93176667f1069a7fedd59e5f627d0d6f1a">
 </div>
 
 ---

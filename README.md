@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+It's+Akira+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+It's+Akira+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Let's+create+better+ideas!" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=CE26-Akira&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/CE26-Akira?style=for-the-badge&color=blue&logo=github)](https://github.com/CE26-Akira?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/CE26-Akira?style=for-the-badge&color=yellow&logo=github)](https://github.com/CE26-Akira)
   
 </div>
 

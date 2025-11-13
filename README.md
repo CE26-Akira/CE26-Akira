@@ -89,28 +89,6 @@ I'm a student developer with interest in cutting edge technology, interface mode
 
 ---
 
-## 🎯 Current Focus
-
-```javascript
-const akira = {
-    currentFocus: ["Building scalable applications", "Open Source Contributions"],
-    learning: ["Cloud Architecture", "Machine Learning", "Web3"],
-    hobbies: ["Coding", "Reading Tech Blogs", "Contributing to OSS"],
-};
-```
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be auto-updated using GitHub Actions -->
-- Stay tuned for upcoming blog posts!
-<!-- BLOG-POST-LIST:END -->
-
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">

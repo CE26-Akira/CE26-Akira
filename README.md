@@ -15,7 +15,7 @@
 I'm a student developer with interest in cutting edge technology, interface model and contributing to existing open source projects!
 
 <div align="center">
-  <img scr="https://photos.fife.usercontent.google.com/pw/AP1GczPYTLhXVdsHTsEVHqjr70Hqupw_DmNZfP_5yt286JF1YcYWMsAL7-EE5w=w320-h218-no?authuser=0"/>
+  <img scr="https://photos.fife.usercontent.google.com/pw/AP1GczPYTLhXVdsHTsEVHqjr70Hqupw_DmNZfP_5yt286JF1YcYWMsAL7-EE5w=w320-h218-no?authuser=0" alt="policy or smth" height="300"/>
 </div>
 
 ---

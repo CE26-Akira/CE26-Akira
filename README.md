@@ -14,14 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating innovative solutions and contributing to open source projects! Always learning, always building.
-
-- 🔭 Currently working on exciting projects
-- 🌱 Learning new technologies every day
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: Check out my social links below!
-- ⚡ Fun fact: I speak in code and coffee ☕
+I'm a student developer with interest in cutting edge technology, interface model and contributing to existing open source projects!
 
 ---
 
@@ -112,7 +105,6 @@ const akira = {
     currentFocus: ["Building scalable applications", "Open Source Contributions"],
     learning: ["Cloud Architecture", "Machine Learning", "Web3"],
     hobbies: ["Coding", "Reading Tech Blogs", "Contributing to OSS"],
-    motto: "Code with passion, build with purpose!"
 };
 ```
 
@@ -158,18 +150,5 @@ const akira = {
 <div align="center">
   
   ![Snake animation](https://raw.githubusercontent.com/CE26-Akira/CE26-Akira/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### Show some ❤️ by starring repositories you find interesting!
-  
-  ![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=CE26-Akira&icon=0&color=6)
-  
-  **Thanks for visiting! 😊**
   
 </div>
